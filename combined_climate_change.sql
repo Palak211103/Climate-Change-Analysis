@@ -1,0 +1,1 @@
+Select * FROM combined_climate_change
