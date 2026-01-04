@@ -40,7 +40,7 @@ The project uses country-wise climate datasets in CSV format, including:
 - **Tableau** – Interactive dashboards and visual storytelling  
 - **GitHub** – Version control and project documentation  
 
----
+
 
 ## 📁 Project Structure
 project-root/
@@ -52,6 +52,6 @@ project-root/
 ├── weekly_report (query).sql         # Weekly climate report queries
 ├── weekly_climate_change_report_*.sql# Generated weekly SQL reports
 
-
+---
 
 
