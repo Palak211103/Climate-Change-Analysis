@@ -43,6 +43,8 @@ The project uses country-wise climate datasets in CSV format, including:
 ---
 
 ## 📁 Project Structure
+project-root/
+│
 ├── README.md
 ├── australia_climate_data.csv
 ├── brazil_climate_data.csv
@@ -51,8 +53,12 @@ The project uses country-wise climate datasets in CSV format, including:
 ├── india_climate_data.csv
 ├── south_africa_climate_data.csv
 ├── usa_climate_data.csv
+│
 ├── biome_types.sql
 ├── combined_climate_change.sql
 ├── weekly_report (query).sql
 ├── weekly_climate_change_report_2025-03-03_to_*.sql
+
+
+
 
